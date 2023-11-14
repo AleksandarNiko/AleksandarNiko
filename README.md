@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aleksandar!
+- 👀 I’m interested in Web Development!
+- 🌱 I’m currently learning C#!
