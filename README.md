@@ -27,11 +27,11 @@
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="JQuery" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/bg-bg/microsoft-365/access" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
   </a>
   <a href="https://getbootstrap.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="52" height="52" alt="Bootstrap" />
+      <img src="By Microsoft Corporation - developer.microsoft.com/en-us/fabricstatic2.sharepointonline.com/files/fabric/assets/brand-icons/product/svg/visio 48x1.svg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=78760919" width="52" height="52" alt="Bootstrap" />
   </a>
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16">
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="CSS" />
