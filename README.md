@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=Hi%20There!&fontSize=90)
 - 👋 Hi, I’m Aleksandar
-- 👀 I’m interested in coding and sports
+- 👀 I’m interested in coding, fitness, basketball, and others
 - 🌱 I’m currently learning Web Development with C#
 - 📫 How to reach me: alekniko752@gmail.com
 
